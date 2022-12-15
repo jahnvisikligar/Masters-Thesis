@@ -3,7 +3,7 @@
 
 # Predictive analysis of Bitcoin stock price using ARIMA
 
-My Master's thesis focuses on the forecasting of Bitcoin stock prices using the Time-Series forecast method as an objective .
+My Master's thesis focuses on the forecasting of Bitcoin stock prices using the Time-Series forecast method.
 
 ## Idea
 Predictions play a key role in the stock market industry and heavily rely on established methods like fundamental and technical analysis. However, they have not proven to be a dependable source of precise predictions. To find a method that could provide predictions that were close to the actual ones, there have been numerous studies on the subject. In order to comprehend and respond to the research questions as they are discussed below, I used the ARIMA model in this paper.
