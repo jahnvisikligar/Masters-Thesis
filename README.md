@@ -19,3 +19,9 @@ Predictions play a key role in the stock market industry and heavily rely on est
 The cryptocurrency market, which is highly volatile, has seen the most rapid changes in recent years. Cryptocurrencies, unlike traditional stock prices, do not have a physical asset and vary depending on a variety of other factors. As a result, I intend to use the Kaggle dataset on cryptocurrency, which contains over 20+ cryptocurrencies' values from 2010 to 2018. I extracted data from all cryptocurrencies in order to save the values of Bitcoin stock prices. 
 
 For my research, I used an ARIMA model with seasonality in the predicted values versus the actual values. I improved the ARIMA model with the SARIMAX model by including seasonality to reduce sudden spikes in predicted values. With the implementation of SARIMAX, the evaluation metrics - RMSE was improved by 24.57% (depending on the seasonal period).
+
+
+
+# Thesis Feedback
+![Screenshot from 2022-12-30 20-13-26](https://user-images.githubusercontent.com/83291068/210108732-cb3b492b-4438-44dc-be00-0068210f3663.png)
+
