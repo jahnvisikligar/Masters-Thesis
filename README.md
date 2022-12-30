@@ -8,7 +8,7 @@ My Master's thesis focuses on predicting of Bitcoin stock prices using the Time-
 ## Idea
 Predictions play a key role in the stock market industry and heavily rely on established methods like fundamental and technical analysis. However, they have not proven to be a dependable source of precise predictions. To find a method that could provide predictions that were close to the actual ones, there have been numerous studies on the subject. In order to comprehend and respond to the research questions as they are discussed below, I used the ARIMA model in this paper.
 
-#### Research questions:
+## Research questions:
 * While there have been numerous methods used to implement stock market predictions (SMP). It is unclear whether the method is suitable for the specified application. What is the most effective technique for predicting the stock market?
 
 * The information is crucial to this process. What procedures are followed in order to smooth the data before use?
@@ -22,6 +22,6 @@ For my research, I used an ARIMA model with seasonality in the predicted values 
 
 
 
-# Thesis Feedback
+### Thesis Feedback
 ![Screenshot from 2022-12-30 20-13-26](https://user-images.githubusercontent.com/83291068/210108732-cb3b492b-4438-44dc-be00-0068210f3663.png)
 
